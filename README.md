@@ -45,8 +45,8 @@ Passionate **Full-Stack Developer** with expertise in **React.js, Spring Boot, a
 
 ## 📫 Connect with Me  
 📧 **Email:** somanikaushik9@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/somani-kaushik43](https://www.linkedin.com/in/somani-kaushik43)  
-💻 **GitHub:** [github.com/your-username](https://github.com/your-username)  
+🔗 **LinkedIn:** [linkedin.com/in/somani-kaushik43](https://www.linkedin.com/in/kaushik-somani)  
+💻 **GitHub:** [github.com/your-username](https://github.com/somanikaushik43)  
 
 ---
 
